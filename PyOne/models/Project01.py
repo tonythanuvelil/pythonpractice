@@ -1,0 +1,42 @@
+# This is my first Python code
+print('Hello, world!')
+print('Good bye, cruel world!')
+print(4)
+print("    *     ")
+print("   ***    ")
+print("  *****   ")
+print("    *     ")
+print("    *     ")
+print("    *     ")
+print("    *     ")
+print(4+2)
+print("Tony" + " " + "Thanuvelil")
+x = 10
+print("x =", x)
+print("Another way to print a variable is:")
+print("The value of x is " + str(x) + ".")
+y = "This is a string variable named y."
+print(y)
+a, b, c = 10, 20, -15
+print("a =", a)
+print("b =", b)
+print("c =", c)
+print("The sum is " + str(a+b+c) + ".")
+print("Type of 'a' is", type(a))
+print("Type of 'y' is", type(y))
+pi = 3.14159
+print(pi)
+print("Type of 'pi' is " + str(type(pi)))
+d = 2.99e8
+print("The speed of light is", d)
+print("Type of 'd' is " + str(type(d)))
+print("This is how to print a text in the \nnext line.")
+print("Python says, \"This can also be printed\".")
+print("Quotes can also be printed like 'this'.")
+print('Or like "this".')
+pathname = 'C:\\Users\Tony Thanuvelil\Tony'
+print("Printing a pathname be like", pathname,"\nType of pathname is", type(pathname))
+print("Now you get to enter some input. What is it gonna be?")
+userinput = input()
+print("The input you entered is:", userinput)
+print("It's type is", type(userinput))
